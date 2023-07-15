@@ -8,7 +8,7 @@ public class CountOfDigit
     {
         Scanner x=new Scanner(System.in);
         int n,a,count=0;
-        System.out.println("Enter the integer: ");
+        System.out.print("Enter the integer: ");
         n=x.nextInt();
         while(n!=0)
         {
